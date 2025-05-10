@@ -32,7 +32,7 @@ Proyek ini merupakan implementasi navigasi yang berputar (rotating navigation) m
 3. Klik ikon hamburger (☰) untuk membuka navigasi.
 4. Klik ikon silang (✖) untuk menutup navigasi.
 
-## 🪪 Lisensi
+## 📝 Lisensi
 
 Proyek ini bersifat open-source dan dapat digunakan untuk pembelajaran, eksperimen, maupun pengembangan antarmuka interaktif.
 
