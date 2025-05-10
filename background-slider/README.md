@@ -6,9 +6,9 @@ Proyek ini adalah implementasi dari sebuah **background slider** yang menampilka
 
 ```bash
 background-slider/
-├── index.html      # File utama HTML
-├── style.css       # File CSS untuk styling dan animasi
-└── script.js       # File JavaScript untuk interaksi user
+├── index.html
+├── style.css
+└── script.js
 ```
 
 ## 📄 Deskripsi
