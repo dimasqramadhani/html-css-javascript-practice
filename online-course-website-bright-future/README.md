@@ -2,7 +2,7 @@
 
 Website **Bright Future** adalah platform yang menyediakan berbagai layanan pelatihan dan kursus untuk membantu pengguna belajar dengan para ahli di berbagai bidang. Website ini memiliki desain yang responsif dan modern, serta menawarkan berbagai kategori kursus yang dapat dipilih oleh pengguna.
 
-## Fitur-fitur
+## 🎯 Fitur-fitur
 
 ### 1. 🚀 Navbar Utama
 Navbar utama menyediakan navigasi mudah untuk menuju berbagai bagian penting di website, seperti:
