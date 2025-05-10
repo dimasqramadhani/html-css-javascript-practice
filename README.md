@@ -24,7 +24,7 @@ Setiap folder berisi satu proyek latihan yang terdiri dari file HTML, CSS, dan J
 
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/dimasqramadhani/html-css-javascript-practice.git
    cd nama-repo
    ```
 2. Buka folder latihan yang ingin kamu jalankan.
