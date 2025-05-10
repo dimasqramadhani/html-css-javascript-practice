@@ -47,4 +47,8 @@ Setiap folder berisi satu proyek latihan yang terdiri dari file HTML, CSS, dan J
 
 Latihan-latihan ini bersifat open-source dan dapat dikembangkan lebih lanjut. Silakan fork dan kembangkan sesuai kebutuhanmu.
 
-> Dibuat dengan semangat belajar ✨ oleh Dimasqi Ramadhani.
+## 🪪 Lisensi
+
+Proyek ini bersifat open-source dan dapat digunakan bebas untuk pembelajaran dan pengembangan pribadi.
+
+> Dibuat dengan semangat belajar ✨ oleh dimasqiramadhani.
