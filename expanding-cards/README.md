@@ -38,7 +38,7 @@ expanding-cards/
 
 - Desain ini menyembunyikan dua panel terakhir jika lebar layar kurang dari 480px, untuk menjaga tampilan tetap rapi di perangkat mobile.
 
-## 🪪 Lisensi
+## 📝 Lisensi
 
 Proyek ini bersifat open-source dan dapat digunakan untuk pembelajaran, eksperimen, maupun pengembangan antarmuka interaktif.
 
