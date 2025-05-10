@@ -19,7 +19,7 @@ Proyek ini merupakan implementasi navigasi yang berputar (rotating navigation) m
 ## 📁 Struktur File
 
 ```bash
-.
+rotating-nav-animation/
 ├── index.html      # File utama HTML
 ├── style.css       # File CSS untuk styling dan animasi
 └── script.js       # File JavaScript untuk interaksi user
