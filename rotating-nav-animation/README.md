@@ -20,9 +20,9 @@ Proyek ini merupakan implementasi navigasi yang berputar (rotating navigation) m
 
 ```bash
 rotating-nav-animation/
-├── index.html      # File utama HTML
-├── style.css       # File CSS untuk styling dan animasi
-└── script.js       # File JavaScript untuk interaksi user
+├── index.html
+├── style.css
+└── script.js
 ```
 
 ## 🔧 Cara Menggunakan
