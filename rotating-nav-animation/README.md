@@ -1,4 +1,4 @@
-# Rotating Navigation Menu
+# 🎠 Rotating Navigation Menu
 
 Proyek ini merupakan implementasi navigasi yang berputar (rotating navigation) menggunakan HTML, CSS, dan JavaScript. Ketika tombol menu ditekan, tampilan kontainer akan berputar, memperlihatkan navigasi di sisi kiri layar.
 
