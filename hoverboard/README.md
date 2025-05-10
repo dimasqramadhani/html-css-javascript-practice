@@ -36,6 +36,8 @@ hoverboard/
 
 ## 🪪 Lisensi
 
-Proyek ini bersifat open-source dan dapat digunakan bebas untuk pembelajaran dan pengembangan pribadi.
+Proyek ini bersifat open-source dan dapat digunakan untuk pembelajaran, eksperimen, maupun pengembangan antarmuka interaktif.
 
-> Dibuat dengan semangat belajar ✨ oleh dimasqiramadhani.
+---
+
+> Dibuat dengan ✨ oleh dimasqiramadhani.
