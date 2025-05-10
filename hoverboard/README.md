@@ -34,7 +34,7 @@ hoverboard/
 - Warna-warna ditentukan dalam array JavaScript dan dapat dikustomisasi.
 - Jumlah kotak dapat diubah dengan mengubah nilai `SQUARES` di `script.js`.
 
-## 🪪 Lisensi
+## 📝 Lisensi
 
 Proyek ini bersifat open-source dan dapat digunakan untuk pembelajaran, eksperimen, maupun pengembangan antarmuka interaktif.
 
