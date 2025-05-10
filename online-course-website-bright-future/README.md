@@ -6,49 +6,50 @@ Website **Bright Future** adalah platform yang menyediakan berbagai layanan pela
 
 ## 🎯 Fitur-fitur
 
-### 1. 🚀 Navbar Utama
-Navbar utama menyediakan navigasi mudah untuk menuju berbagai bagian penting di website, seperti:
+- Navbar Utama
 
-- Home
-- Layanan
-- Pelatihan
-- Kategori
-- Testimoni
-- Get Started 
+  Navbar utama menyediakan navigasi mudah untuk menuju berbagai bagian penting di website, seperti:
 
-### 2. 🎉 Banner Utama 
+  - Home
+  - Layanan
+  - Pelatihan
+  - Kategori
+  - Testimoni
+  - Get Started 
 
-Banner utama memberikan informasi tentang manfaat belajar bersama para ahli, serta fitur pencarian pelatihan dengan ikon pencarian.
+- Banner Utama
+  
+  Banner utama memberikan informasi tentang manfaat belajar bersama para ahli, serta fitur pencarian pelatihan dengan ikon pencarian.
 
-### 3. 🤝 Partner Kami
+- Partner Kami
 
-Kami bekerja sama dengan berbagai mitra terpercaya yang memiliki jaringan global. Mereka dapat ditemukan di bagian *carousel*.
+  Kami bekerja sama dengan berbagai mitra terpercaya yang memiliki jaringan global. Mereka dapat ditemukan di bagian *carousel*.
 
-### 4. 💼 Layanan Kami
+- Layanan Kami
 
-Beberapa alasan mengapa pengguna harus memilih **Bright Future:**
+  Beberapa alasan mengapa pengguna harus memilih **Bright Future:**
 
-- Jadwal Fleksibel
-- Guru Berpengalaman
-- Dukungan Langsung 24/7
+  - Jadwal Fleksibel
+  - Guru Berpengalaman
+  - Dukungan Langsung 24/7
 
-### 5. 📘 Pilih Kursus Favorit Anda
+- Pilih Kursus Favorit Anda
 
-Bagian ini menampilkan kursus yang tersedia untuk dipilih oleh pengguna. Setiap kursus memiliki detail seperti:
+  Bagian ini menampilkan kursus yang tersedia untuk dipilih oleh pengguna. Setiap kursus memiliki detail seperti:
 
-- Nama kursus
-- Jumlah video
-- Rating dari pengguna
-- Harga
+  - Nama kursus
+  - Jumlah video
+  - Rating dari pengguna
+  - Harga
 
-### 6. 📑 Kategori Kursus 
+- Kategori Kursus 
 
-Pengguna dapat memilih kategori kursus yang mereka minati, seperti:
+  Pengguna dapat memilih kategori kursus yang mereka minati, seperti:
 
-- Designing
-- Development
-- Marketing
-- Photography
+  - Designing
+  - Development
+  - Marketing
+  - Photography
 
 ## 📁 Struktur Folder
 
