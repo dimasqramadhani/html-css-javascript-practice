@@ -5,9 +5,10 @@ Proyek ini adalah implementasi dari sebuah **vertical slider** yang dapat menamp
 ## 📁 Struktur Folder
 
 ```bash
-/index.html
-/style.css
-/script.js
+double-vertical-slider/
+├── index.html
+├── style.css
+└── script.js
 ```
 
 ## 📄 Deskripsi
