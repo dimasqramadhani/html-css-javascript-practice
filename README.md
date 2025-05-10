@@ -47,7 +47,7 @@ Setiap folder berisi satu proyek latihan yang terdiri dari file HTML, CSS, dan J
 
 Latihan-latihan ini bersifat open-source dan dapat dikembangkan lebih lanjut. Silakan fork dan kembangkan sesuai kebutuhanmu.
 
-## 🪪 Lisensi
+## 📝 Lisensi
 
 Proyek ini bersifat open-source dan dapat digunakan untuk pembelajaran, eksperimen, maupun pengembangan antarmuka interaktif.
 
