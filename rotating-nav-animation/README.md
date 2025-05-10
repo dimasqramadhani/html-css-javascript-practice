@@ -32,6 +32,8 @@ Proyek ini merupakan implementasi navigasi yang berputar (rotating navigation) m
 3. Klik ikon hamburger (☰) untuk membuka navigasi.
 4. Klik ikon silang (✖) untuk menutup navigasi.
 
-## 📸 Preview
+## 🪪 Lisensi
 
-Tampilan saat navigasi ditutup dan terbuka akan menunjukkan efek rotasi kontainer dan animasi pada menu navigasi.
+Proyek ini bersifat open-source dan dapat digunakan bebas untuk pembelajaran dan pengembangan pribadi.
+
+> Dibuat dengan semangat belajar ✨ oleh dimasqiramadhani.
