@@ -27,7 +27,6 @@ Setiap folder berisi satu proyek latihan yang terdiri dari file HTML, CSS, dan J
    git clone https://github.com/username/nama-repo.git
    cd nama-repo
    ```
-
 2. Buka folder latihan yang ingin kamu jalankan.
 3. Buka `index.html` langsung di browser, atau gunakan ekstensi Live Server jika kamu memakai VS Code.
 
